@@ -10,16 +10,16 @@
 // Target Devices:	Xilinx 
 // Tool versions:	ISE-14.7
 // Description:		This module implements a synchronous Read/Write RAM with a de- 
-//				fault size of 512 addresses of 32 bits, or a 512x128 bytes RAM
+//			fault size of 512 addresses of 32 bits, or a 512x128 bytes RAM
 //
 // Dependencies:	riscv_core.v
 //
 // Revision
 // Revision 0.01 - File Created
 // Additional Comments: This code is intended to be used for the memory blocks of
-//						the core.
-// 						This code is based in the example code provided by Deepak 
-//						Kumar Tala on his website, showed below:
+//			the core.
+// 			This code is based in the example code provided by Deepak 
+//			Kumar Tala on his website, showed below:
 // http://www.asic-world.com/examples/verilog/ram_sp_sr_sw.html#Single_Port_RAM_\
 // Synchronous_Read/Write
 //
