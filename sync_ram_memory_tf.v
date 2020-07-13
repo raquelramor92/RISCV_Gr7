@@ -15,7 +15,7 @@
 //
 // Revision
 // Revision 0.01 - File Created
-// Additional Comments: código de testbench o testfixture, prueba
+// Additional Comments: testbench o testfixture code, test functional aspects
 //
 //////////////////////////////////////////////////////////////////////////////////
 
