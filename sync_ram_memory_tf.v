@@ -1,11 +1,11 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company:			Instituto tecnologico de Costa Rica
+// Company:		Instituto tecnologico de Costa Rica
 // Engineer:		Raquel Ramirez Moreno
 // 
 // Create Date:		14:29:14 07/12/2020 
-// Design Name:		RISC-V Microcontroler Core
-// Module Name:		sync_ram_memory_tf
+// Design Name:		RISC-V Microprocessor Core
+// Module Name:		sync_ram_memory_tf (testbench/testfixture)
 // Project Name:	Proyecto de microcontrolador 
 // Target Devices:	Xilinx 
 // Tool versions:	ISE-14.7
@@ -15,7 +15,7 @@
 //
 // Revision
 // Revision 0.01 - File Created
-// Additional Comments: 
+// Additional Comments: código de testbench o testfixture, prueba
 //
 //////////////////////////////////////////////////////////////////////////////////
 
